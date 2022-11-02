@@ -8,6 +8,10 @@ Microservices involve different services which are communicated in a variety of 
 
 ## Microservice Patterns:
 
+Microservice endpoint and Gateway endpoint:
+*   Rest API and Protocols
+*   GRPC
+
 Command and Query segregation(CQRS) and Event Sourcing:
 
 *   Mediator
